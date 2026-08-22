@@ -10,7 +10,7 @@ const sdk = require("microsoft-cognitiveservices-speech-sdk");
 const dotenv = require('dotenv');
 dotenv.config();
 
-ffmpeg.setFfmpegPath(ffmpegPathf)
+ffmpeg.setFfmpegPath(ffmpegPath)
 
 const app = express();
 
