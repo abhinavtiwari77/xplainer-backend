@@ -1,0 +1,8 @@
+{
+  "ignore": [
+    "audio/**/*",
+    "*.wav",
+    "*.mp3",
+    "filelist.txt"
+  ]
+}

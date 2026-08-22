@@ -1,0 +1,7 @@
+const express = require('express');
+const router = express.Router();
+const explainController = require('../controllers/explainController');
+
+router.post('/explain', explainController.explain);
+
+module.exports = router;
