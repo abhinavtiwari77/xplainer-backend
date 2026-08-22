@@ -1,6 +1,4 @@
-# xplainer-backend
 Check Readme on Frontend Repo - https://github.com/abhinavtiwari77/xplainer-frontend
-Xplainer Backend
 
 Backend service for Xplainer, an AI-powered educational platform that converts complex technical topics into simple, structured, and visual explanations.
 
